@@ -1,0 +1,3 @@
+Script file: /home/fuser-jia/calcul.R
+Host ip: 15.223.125.50
+ip port: 6311
